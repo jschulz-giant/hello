@@ -1,7 +1,0 @@
-
-class Greetings
-{
-    init {
-        
-    }
-}
